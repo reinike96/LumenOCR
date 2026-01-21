@@ -50,8 +50,8 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("📚 PDF Book to Text Converter")
-st.subheader("Powered by Gemini 3 Flash & MistralOCR")
+st.title("📚 LumenOCR")
+st.subheader("Transform Scanned Books into Editable Text")
 st.markdown("---")
 
 # User input for API Key

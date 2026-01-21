@@ -1,4 +1,4 @@
-# PDF AI Book Converter 📚🤖
+# LumenOCR 📚🤖
 
 A powerful Streamlit-based application to transcribe scanned PDF books into editable Word or Text files using **MistralOCR** and **Gemini 3 Flash** via OpenRouter.
 
